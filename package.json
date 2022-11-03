@@ -14,8 +14,7 @@
 		"node",
 		"hyperdev",
 		"express",
-		"freecodecamp",
-		"Rick"
+		"freecodecamp"
 	],
 	"license": "MIT"
 }
